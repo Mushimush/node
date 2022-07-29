@@ -4,7 +4,7 @@
 
 *Node.js
 *Express.js
-\*MongoDB
+*MongoDB
 
 ## Learning Outcome/Personal Notes
 
