@@ -3,17 +3,17 @@
 ## Stack used
 
 * Node.js
-* xpress.js
+* Express.js
 * MongoDB
 
 ## Learning Outcome/Personal Notes
 
-View Engines , Rendering a view instead of using sendFile to go to path.
+* View Engines , Rendering a view instead of using sendFile to go to path.
 
-MiddleWare , Order of middleware is very important
+* MiddleWare , Order of middleware is very important
 
-MongoDB GET POST DELETE Request
+* MongoDB GET POST DELETE Request
 
-Routing with Express
+* Routing with Express
 
-MVC (Model, Views, Controller)
+* MVC (Model, Views, Controller)
