@@ -1,6 +1,6 @@
 # Blog application
 
-## Stack used
+## Stacks used
 
 * Node.js
 * Express.js
