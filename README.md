@@ -2,9 +2,9 @@
 
 ## Stack used
 
-*Node.js
-*Express.js
-*MongoDB
+* Node.js
+* xpress.js
+* MongoDB
 
 ## Learning Outcome/Personal Notes
 
